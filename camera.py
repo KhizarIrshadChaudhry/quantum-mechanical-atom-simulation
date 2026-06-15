@@ -28,7 +28,7 @@ MVP matricen r  4x4 matrix der bruges til at transformere 3D koordinater til 2D 
 den består af 3 matrixer. 
 Model = [1, 0, 0, 0]
 [0, 1, 0, 0]
-[0, 0, 1, 0]
+[0, 0, 1, 0] 
 [0, 0, 0, 1]
 
 øverste er en identitets matrix 4x4 der ikke gører noget ved koordinaterne, da vores partikler allerede er i world space og ikke har nogen model transformation nødvendig
@@ -40,7 +40,7 @@ så
 
 det ka dog flyttes med
 [1, 0, 0, tx]   [x]   [x + tx]
-[0, 1, 0, ty] × [y] = [y + ty]   punktet er flyttet med translation tx,ty,tz
+[0, 1, 0, ty] x [y] = [y + ty]   punktet er flyttet med translation tx,ty,tz
 [0, 0, 1, tz]   [z]   [z + tz]
 [0, 0, 0,  1]   [1]   [1     ]  1 ska indikere dette er et punkt og ikke vektor 
 

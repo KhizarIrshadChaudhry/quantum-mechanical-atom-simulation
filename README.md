@@ -1,4 +1,7 @@
-# Quantum Orbital Visualizer - Setup & Run
+# Kvantemekanisk Simulering af Hydrogen Atomets Orbitaler
+# Quantum Mechanical Simulation of Hydrogen Orbitals
+
+# The following .md file is written by AI.
 
 ## Install dependencies
 ```bash

@@ -478,7 +478,7 @@ class Engine:
         glBufferSubData(GL_ARRAY_BUFFER, 0, verts.nbytes, verts)
         glBindBuffer(GL_ARRAY_BUFFER, 0)
 
-    @property #for at tilgå den som attribut i stedet for metode så particle_count istedet for particle_count() for at få den nuværende slider værdi som antal partikler
+    @property 
     def particle_count(self) -> int:
         """Returner nuværende slider value mappet til [_MIN_P, _MAX_P], afrundet til nærmeste 10.000 for pænere tal i HUD"""
         n = self._slider_fraction * (_MAX_P - _MIN_P) + _MIN_P
