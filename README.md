@@ -1,12 +1,7 @@
 # Quantum Mechanical Simulation of Hydrogen Orbitals
 
-```{=html}
-<p align="center">
-```
-`<img src="3,2,0%20orbital.png" alt="3d orbital visualization" width="900">`{=html}
-```{=html}
-</p>
-```
+![3d orbital](3,2,0%20orbital.png)
+
 ### Kvantemekanisk Simulering af Hydrogen Atomets Orbitaler
 
 The following .md file is written by AI.
