@@ -1,6 +1,5 @@
-# Kvantemekanisk Simulering af Hydrogen Atomets Orbitaler
 # Quantum Mechanical Simulation of Hydrogen Orbitals
-
+### Kvantemekanisk Simulering af Hydrogen Atomets Orbitaler
 The following .md file is written by AI.
 
 ## Install dependencies
