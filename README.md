@@ -2,7 +2,6 @@
 
 ![3d orbital](3,2,0%20orbital.png)
 
-### Kvantemekanisk Simulering af Hydrogen Atomets Orbitaler
 
 The following .md file is written by AI.
 
