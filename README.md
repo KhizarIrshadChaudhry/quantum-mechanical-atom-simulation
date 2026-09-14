@@ -12,7 +12,7 @@ resulting positions as a real-time particle cloud.
 
 The project was developed as my **Programming B final examination
 project in 3.G at the Danish HTX (Higher Technical Examination
-Programme)** at **NEXT Sukkertoppen HTX**.
+Programme)** at **NEXT Sukkertoppen HTX**, and achieved a **grade 12**.
 
 ## Install dependencies
 
@@ -186,6 +186,7 @@ This was a **Programming B final examination project** completed during
 -   **School:** NEXT Sukkertoppen HTX
 -   **Author:** Khizar Irshad Chaudhry
 -   **Submitted:** April 2026
+-   **Grade:** 12
 
 ## Language disclaimer
 
